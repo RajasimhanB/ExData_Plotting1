@@ -1,3 +1,6 @@
+This is my project submission for Exploratory Data Analysis - Project-1. Please refer to the R code and png files for project submission. The content in the read me file shown below are from the source repo.
+
+
 ## Introduction
 
 This assignment uses data from
